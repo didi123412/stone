@@ -286,4 +286,6 @@ Step 4: **[Pytorch EfficientNet-b0]** Image Classification
    -  상품명, 수량, 가격 합계 등의 기능을 제공합니다. 
 
 
+ 
+ ### [yoloV4-obj_best.weights](https://drive.google.com/file/d/1VtDGNmMHr4N_5y4Ng0wFneTFLCkooTKr/view?usp=sharing)
 
