@@ -287,5 +287,7 @@ Step 4: **[Pytorch EfficientNet-b0]** Image Classification
 
 
  
- ### [yoloV4-obj_best.weights](https://drive.google.com/file/d/1VtDGNmMHr4N_5y4Ng0wFneTFLCkooTKr/view?usp=sharing)
+ ### yoloV4 학습된 weights 파일 다운로드
+  - 다음 경로에 저장 `/barcodeless/prediction/pred_yolo/yoloV4-obj_best.weights`
+ [yoloV4-obj_best.weights](https://drive.google.com/file/d/1VtDGNmMHr4N_5y4Ng0wFneTFLCkooTKr/view?usp=sharing)
 
