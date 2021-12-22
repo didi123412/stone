@@ -285,12 +285,18 @@ Step 4: **[Pytorch EfficientNet-b0]** Image Classification
    -  **`main.html`** 화면에서 모델 연산 후의 결과가 상품 리스트로 출력됩니다.
    -  상품명, 수량, 가격 합계 등의 기능을 제공합니다. 
 
+<br><br><br>
+ 
+----
 
+<br><br><br>
  
  ### yoloV4 학습된 weights 파일 다운로드
   - 다음 경로에 저장 `/barcodeless/prediction/pred_yolo/yoloV4-obj_best.weights`
  
  [yoloV4-obj_best.weights](https://drive.google.com/file/d/1VtDGNmMHr4N_5y4Ng0wFneTFLCkooTKr/view?usp=sharing)
+ 
+<br><br><br>
  
 ----
 
@@ -298,17 +304,14 @@ Step 4: **[Pytorch EfficientNet-b0]** Image Classification
 
 ## 절대 경로 수정 필요
 
-barcodeless\views.py
-
+**`barcodeless\views.py`**
 39 번째 줄
 
 
-barcodeless\prediction\pred_yolo\darknet_cv.py
-
+**`barcodeless\prediction\pred_yolo\darknet_cv.py`**
 82 번째 줄
 
 
-barcodeless\prediction\pred_yolo\yolo_effi.py
-
+**`barcodeless\prediction\pred_yolo\yolo_effi.py`**
 108, 131, 168, 170 번째 줄 
 
